@@ -1,0 +1,13 @@
+.\src\FA.vhd
+.\src\NBitAdder.vhd
+.\src\PartA.vhd
+.\src\PartB.vhd
+.\src\PartC.vhd
+.\src\PartD.vhd
+.\src\ALU.vhd
+.\src\MainMemory.vhd
+.\src\Register.vhd
+.\src\PC.vhd
+.\src\ControlUnit .vhd
+.\src\ALU_Selc.vhd
+.\src\Processor.vhd

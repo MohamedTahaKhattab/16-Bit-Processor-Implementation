@@ -1,0 +1,91 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=processor
+[Library]
+processor=.\processor\processor.lib
+[$LibMap$]
+processor=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/FA.vhd=-1
+/NBitAdder.vhd=-1
+/PartA.vhd=-1
+/PartB.vhd=-1
+/PartC.vhd=-1
+/PartD.vhd=-1
+/ALU.vhd=-1
+/MainMemory.vhd=-1
+/Register.vhd=-1
+/PC.vhd=-1
+/ControlUnit .vhd=-1
+/ALU_Selc.vhd=-1
+/Processor.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+[Files.Data]
+.\src\FA.vhd=VHDL Source Code
+.\src\NBitAdder.vhd=VHDL Source Code
+.\src\PartA.vhd=VHDL Source Code
+.\src\PartB.vhd=VHDL Source Code
+.\src\PartC.vhd=VHDL Source Code
+.\src\PartD.vhd=VHDL Source Code
+.\src\ALU.vhd=VHDL Source Code
+.\src\MainMemory.vhd=VHDL Source Code
+.\src\Register.vhd=VHDL Source Code
+.\src\PC.vhd=VHDL Source Code
+.\src\ControlUnit .vhd=VHDL Source Code
+.\src\ALU_Selc.vhd=VHDL Source Code
+.\src\Processor.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+[folders]
+name0=ALINT-PRO Workspaces
+directory0=c:\My_Designs\MohamedTaha192000280\processor\
+extension0=alintws
+name1=Coverage Databases
+directory1=c:\My_Designs\MohamedTaha192000280\processor\
+extension1=acdb
+name2=Dll Libraries
+directory2=c:\My_Designs\MohamedTaha192000280\processor\
+extension2=dll
+name3=Event Lists
+directory3=c:\My_Designs\MohamedTaha192000280\processor\
+extension3=lst
+name4=HTML Files
+directory4=c:\My_Designs\MohamedTaha192000280\processor\
+extension4=htm;html
+name5=Log Files
+directory5=c:\My_Designs\MohamedTaha192000280\processor\
+extension5=log;htm;xml;txt
+name6=Matlab/Simulink Files
+directory6=c:\My_Designs\MohamedTaha192000280\
+extension6=m;mdl;slx
+name7=Memory Files
+directory7=c:\My_Designs\MohamedTaha192000280\processor\
+extension7=mem;mif;hex
+name8=PDF Files
+directory8=c:\My_Designs\MohamedTaha192000280\processor\
+extension8=pdf
+name9=Profiler Databases
+directory9=c:\My_Designs\MohamedTaha192000280\processor\
+extension9=tbp
+name10=Script Files
+directory10=c:\My_Designs\MohamedTaha192000280\processor\
+extension10=do;tcl;pl
+name11=Waveform Files
+directory11=c:\My_Designs\MohamedTaha192000280\processor\
+extension11=asdb;awc;asdbc;asdbe
+[HierarchyViewer]
+HierarchyInformation=processor|Processor|0
+ShowHide=ShowTopLevel
+Selected=

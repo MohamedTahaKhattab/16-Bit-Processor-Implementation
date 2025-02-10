@@ -1,0 +1,42 @@
+Active-HDL 13.0.376.8320 2022-05-23 11:38:40
+
+Elaboration top modules:
+Architecture                  Processor(Processor)
+
+
+---------------------------------------------------------------------------------------------------------
+Entity        | Architecture        | Library   | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------
+Processor     | Processor           | processor |      | 13.0.376.8320 (Windows64) | -O3
+PC            | PC                  | processor |      | 13.0.376.8320 (Windows64) | -O3
+\Register\    | \Register\          | processor |      |                           | 
+\Main Memory\ | \Main_Memory_model\ | processor |      |                           | 
+Control_U     | Control_U           | processor |      | 13.0.376.8320 (Windows64) | -O3
+ALU_Selc      | ALU_Selc            | processor |      | 13.0.376.8320 (Windows64) | -O3
+ALU           | ALU                 | processor |      | 13.0.376.8320 (Windows64) | -O3
+PartA         | \PartA_model\       | processor |      |                           | 
+PartB         | PartB_model         | processor |      | 13.0.376.8320 (Windows64) | -O3
+PartC         | PartC               | processor |      | 13.0.376.8320 (Windows64) | -O3
+PartD         | PartD               | processor |      | 13.0.376.8320 (Windows64) | -O3
+\add_sub\     | \Add_sub_model\     | processor |      |                           | 
+FA            | FA                  | processor |      | 13.0.376.8320 (Windows64) | -O3
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+VHDL Package                        | Library   | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------
+standard                            | std       |      |                           | <unavailable>
+TEXTIO                              | std       |      | 13.0.376.8320 (Windows64) |  -2019
+std_logic_1164                      | ieee      |      | 13.0.376.8320 (Windows64) |  -2008
+std_logic_arith                     | ieee      |      | 13.0.376.8320 (Windows64) | <unavailable>
+STD_LOGIC_UNSIGNED                  | ieee      |      | 13.0.376.8320 (Windows64) | <unavailable>
+NUMERIC_STD                         | ieee      |      | 13.0.376.8320 (Windows64) |  -2008
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+Library                             | Comment
+---------------------------------------------------------------------------------------------------------
+ieee                                | Standard IEEE packages library
+processor                           | None
+std                                 | Standard VHDL library
+---------------------------------------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+161
+~E 1 "../src/MainMemory.vhd" 29 \Main Memory\
+~A 1 "../src/MainMemory.vhd" 22 \Main_Memory_model\
+~E 1 "../src/Register.vhd" 28 \Register\
+~A 1 "../src/Register.vhd" 16 \Register\
+~E 1 "../src/NBitAdder.vhd" 28 \add_sub\
+~A 1 "../src/NBitAdder.vhd" 17 \Add_sub_model\
+~E 1 "../src/ALU.vhd" 28 ALU
+~A 1 "../src/ALU.vhd" 23 ALU
+~E 1 "../src/ALU_Selc.vhd" 28 ALU_Selc
+~A 1 "../src/ALU_Selc.vhd" 16 ALU_Selc
+~E 1 "../src/ControlUnit .vhd" 28 Control_U
+~A 1 "../src/ControlUnit .vhd" 14 Control_U
+~E 1 "../src/FA.vhd" 28 FA
+~A 1 "../src/FA.vhd" 16 FA
+~E 1 "../src/PartA.vhd" 28 PartA
+~A 1 "../src/PartA.vhd" 20 \PartA_model\
+~E 1 "../src/PartB.vhd" 28 PartB
+~A 1 "../src/PartB.vhd" 19 PartB_model
+~E 1 "../src/PartC.vhd" 28 PartC
+~A 1 "../src/PartC.vhd" 18 PartC
+~E 1 "../src/PartD.vhd" 28 PartD
+~A 1 "../src/PartD.vhd" 18 PartD
+~E 1 "../src/PC.vhd" 29 PC
+~A 1 "../src/PC.vhd" 17 PC
+~E 1 "../src/Processor.vhd" 28 Processor
+~A 1 "../src/Processor.vhd" 14 Processor

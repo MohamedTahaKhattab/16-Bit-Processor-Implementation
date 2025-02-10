@@ -1,0 +1,1 @@
+-w -erf C:/My_Designs/MohamedTaha192000280/processor/compile/processor.erf -d C:/My_Designs/MohamedTaha192000280/processor/compile -s C:/My_Designs/MohamedTaha192000280/library.cfg -j C:/My_Designs/MohamedTaha192000280/processor/projlib.cfg -work processor -O3 -e 100 -work processor -2002 C:/My_Designs/MohamedTaha192000280/processor/src/MainMemory.vhd 
